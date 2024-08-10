@@ -1,6 +1,8 @@
 # ColorFox
 Colorful icons for your FireFox!
 
+![Picture of all the foxes!](https://raw.githubusercontent.com/code32123/ColorFox/main/colorfox.png)
+
 ## Why?
 I use a bunch of different firefox profiles all pinned to my taskbar, and would like to be able to tell them apart. Now, each profile can have it's own pretty color!
 
